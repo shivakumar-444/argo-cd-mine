@@ -5,7 +5,7 @@ metadata:
   name: tomcatdeploy
   namespace: lenovo-ns
 spec:
-  replicas: 5
+  replicas: 7
   selector:
     matchLabels:
       app: tomcat
