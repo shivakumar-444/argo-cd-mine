@@ -1,0 +1,9 @@
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: shiva-ns
+  labels:
+    app: shiva
+spec:
+  
