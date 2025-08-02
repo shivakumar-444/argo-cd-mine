@@ -15,7 +15,7 @@ spec:
     namespace: httpd-ns
   syncPolicy:
     syncOptions:
-    - CreateNAmespace: true
+    - CreateNamespace: true
     automated:
       selfHeal: true
       prune: true
